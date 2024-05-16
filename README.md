@@ -20,12 +20,12 @@ Overall, the "Image Randomizer" plugin offers a straightforward solution for dis
 
 To use the "Image Randomizer" plugin, follow these steps:
 
-1. **Install the Plugin**:
-   - Download the plugin code provided above.
-   - Log in to your WordPress admin dashboard.
-   - Navigate to "Plugins" > "Add New".
-   - Click on the "Upload Plugin" button and upload the plugin zip file.
-   - Activate the plugin.
+1. **Installation:**
+    - Download the plugin zip file.
+    - Go to your WordPress dashboard.
+    - Navigate to `"Plugins" > "Add New"`.
+    - Click on the "Upload Plugin" button and select the downloaded zip file.
+    - Activate the plugin.
 
 2. **Select Images**:
    - Determine which images you want to include in the randomization. Note down the IDs of these images from the WordPress media library.
